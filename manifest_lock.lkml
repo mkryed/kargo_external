@@ -1,4 +1,4 @@
 remote_dependency: datatonic_test_env_1 {
   url: "https://github.com/mkryed/kargo_internal.git"
-  ref: "ab76f9ccaa6b35b7cfda3c03c7109497e01a3a50"
+  ref: "ed912d4072f7b704500442579cfae96b381446b1"
 }
